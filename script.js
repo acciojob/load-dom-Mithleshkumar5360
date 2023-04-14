@@ -1,4 +1,4 @@
 //your JS code here. If required.
-windows.onlad =(event)=>{
-	document.querySelector("body").InnerHTML="DOM load success";
+window.onload =(event)=>{
+	document.querySelector("body").innerHTML="DOM load success";
 };
